@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 100%;
+    font-family: 'Cocogoose Pro Regular';
+}
+nav ul li{
+    float: right;
+    list-style: none;
+    display: inline-block;
+    padding: 2% 1%;
+}
+nav ul li a{
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+nav{
+    width: 100%;
+    padding: 0 1%;
+    box-sizing: border-box;
+    margin-top: 0%;
+    display: flex;
+    position: fixed;
+}
+nav img{
+    width: 15%;
+    height: 140%;
+    float: left;
+    margin-top: 0%;
+    padding: 2% 1%;
+}
+body{
+    background-image: url("login.jpg");
+    opacity: 60%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;  
+}
+.login{
+    margin: 0 auto;
+    background-attachment: fixed;
+}
+.login img{
+    width: 15%;
+    margin-left: 42%;
+    margin-top: 10%;
+}
+.logo img{
+    width: 100%
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.kotak1{
+    padding-left: 13%;
+}
+.kotak1 img{
+    width: 18%;
+    margin-top: 5%;
+    margin-left: 16%;
+    text-align: left;
+}
